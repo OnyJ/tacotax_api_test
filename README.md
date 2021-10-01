@@ -1,6 +1,6 @@
 # Tacotax - Backend technical test
 
-(see instructions in ./tacotax_backend_test.md)
+(see instructions in `./tacotax_backend_test.md`)
 
 ## Using this repo
 
